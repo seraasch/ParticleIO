@@ -1,0 +1,7 @@
+{
+  "name": "particle-io-interface",
+  "author": "Steve Raasch <sraasch@stever.net>",
+  "license": "GPL",
+  "version": "0.0.1",
+  "description": "A simple library that simplifies handling multiple IO pins"
+}
